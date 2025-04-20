@@ -1,1 +1,1 @@
-# NeRFStudio_MVPR
+# ASU Landmark 3D Reconstruction using Nerfstudio
